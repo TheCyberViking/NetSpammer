@@ -1,5 +1,5 @@
 # NetSpammer
-Network Traffic Generation tool for annoying Blue Teams and Sys Admins and attempting to hide hidden attacks
+Network Traffic Generation tool for annoying Blue Teams and Sys Admins and attempting to hide hidden attacks, This could be usefull for red teamers to make nosie from a random machine to cuase the defenders to pay attention to that machine more then others, possibly allow your quiter attacks to go un-noticed
 
 ## The Menu
 * Simulate an Attack = This will simulate an attack on the network out your main ethernet port
