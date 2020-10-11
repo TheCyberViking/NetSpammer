@@ -345,7 +345,7 @@ def menu():
     while ans:
         print("")
         print("#######################################################")
-        print("# Traffic Generator By Dean O'Neill  B00091839        #")
+        print("# Traffic Generator By TheCyberViking                 #")
         print("#######################################################")
         print("Please Make sure you run as root and have TCPreplay installed")
         print("")
